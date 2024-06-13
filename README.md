@@ -4,36 +4,7 @@
 
 <div align="left">
     <H3> 1. 프로젝트 개요 </H3>
-   <H3>🦅 Js_Eagles</H3>  
-        <br>
-<p>
-    Js_Eagles는 열정과 창의력으로 뭉친 개발자들이 모인 팀입니다. 우리는 최신 기술 트렌드에 민감하며, 끊임없이 혁신을 추구합니다. 각자의 전문성을 살려 협력하고, 함께 성장하는 것을 목표로 합니다.
-</br>
-</br>
-🌟 팀의 특징
-</br></br>
-문제 해결: 도전적인 문제를 즐기며, 항상 최고의 해결책을 찾기 위해 노력합니다.
-</br>
-최신 기술: 최신 기술 스택을 활용해 효율적이고, 확장 가능한 솔루션을 제공합니다.
-</br>
-열린 소통: 자유롭고 열린 커뮤니케이션을 통해 창의적이고 혁신적인 아이디어를 나눕니다.
-</br>
-</br>
-🔧 주요 프로젝트
-</br></br>
-키오스크 솔루션: 사용자의 편의를 극대화하는 직관적이고 스마트한 키오스크 시스템 개발
-</br>
-스마트 홈 애플리케이션: 스마트한 생활을 위한 홈 자동화 솔루션 연구
-</br>
-AI 기반 데이터 분석: 비즈니스 인사이트를 제공하는 AI 데이터 분석 도구 개발
-</br>
-</br>
-🌐 팀의 목표</br></br>
-우리는 단순히 코드를 작성하는 것을 넘어, 세상을 변화시킬 수 있는 혁신적인 기술을 개발하고자 합니다. </br>우리의 목표는 사용자의 삶을 더 나아지게 만드는 것입니다.
-</br>
-</br>
-Js_Eagles와 함께라면 미래는 더욱 밝고, 무한한 가능성이 열립니다.
-    </p>
+   
 </div>
 
 <div>
@@ -83,7 +54,7 @@ Js_Eagles와 함께라면 미래는 더욱 밝고, 무한한 가능성이 열립
 <div align="left">
     <H3> 6. 진행 상황 </H3>
 <details>
-<summary> 우승엽 </summary>
+<summary> 팁원1 </summary>
 <div markdown="1">
 
 + 24.05.29 : 주문 리스트 뼈대 부분 완성
@@ -93,7 +64,7 @@ Js_Eagles와 함께라면 미래는 더욱 밝고, 무한한 가능성이 열립
 </details>
 
 <details>
-<summary> 주순태 </summary>
+<summary> 팁원1 </summary>
 <div markdown="1">
 
 + 24.05.28 : Footer 레이아웃 완성
@@ -105,7 +76,7 @@ Js_Eagles와 함께라면 미래는 더욱 밝고, 무한한 가능성이 열립
 </details>
 
 <details>
-<summary> 황정한 </summary>
+<summary> 팁원1 </summary>
 <div markdown="1">
 
 + 24.05.28 레이아웃 뼈대 완성
@@ -115,7 +86,7 @@ Js_Eagles와 함께라면 미래는 더욱 밝고, 무한한 가능성이 열립
 </details>
 
 <details>
-<summary> 팀원4 </summary>
+<summary> 팁원1 </summary>
 <div markdown="1">
 
 + 내용을  적으시오
@@ -124,7 +95,16 @@ Js_Eagles와 함께라면 미래는 더욱 밝고, 무한한 가능성이 열립
 </details>
 
 <details>
-<summary> 팀원5 </summary>
+<summary> 팁원1 </summary>
+<div markdown="1">
+
++ 내용을  적으시오
+
+</div>
+</details>
+
+<details>
+<summary> 팁원1 </summary>
 <div markdown="1">
 
 + 내용을  적으시오
